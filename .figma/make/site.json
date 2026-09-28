@@ -1,0 +1,10 @@
+{
+  "description": "Immerse yourself in a 3D interactive mystery where you investigate crime scenes, uncover clues, and piece together multiple theories to solve the case.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
